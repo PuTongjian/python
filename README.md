@@ -1,2 +1,4 @@
-# python-stack
-本仓库收集并整理Python后端开发的相关技术
+# Python编码规范
+- [PEP 8规范](https://github.com/PuTongjian/python-stack/blob/master/doc/PEP%208.md)
+- [Python语言规范 — Google 开源项目风格指南](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E8%AF%AD%E8%A8%80%E8%A7%84%E8%8C%83%5BGoogle%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%5D.pdf)
+- [Python编程惯例](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E7%BC%96%E7%A8%8B%E6%83%AF%E4%BE%8B.pdf) 是分钟让你的代码更加Pythonic
