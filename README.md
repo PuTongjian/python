@@ -7,5 +7,6 @@
 
 # 一些你一定要知道的常识
 - [TCP/IP协议栈](https://developer.51cto.com/art/201906/597961.htm)
-- [HTTPS](https://juejin.im/post/5a66ba596fb9a01cb64eed6f)
+- [HTTPS的故事——浅显易懂](https://juejin.im/post/5a66ba596fb9a01cb64eed6f)
+- [HTTP验证大法(Basic Auth,Session, JWT, Oauth, Openid)](https://segmentfault.com/a/1190000008481722)
 
