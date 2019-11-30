@@ -9,4 +9,5 @@
 - [TCP/IP协议栈](https://developer.51cto.com/art/201906/597961.htm)
 - [HTTPS的故事——浅显易懂](https://juejin.im/post/5a66ba596fb9a01cb64eed6f)
 - [HTTP验证大法(Basic Auth,Session, JWT, Oauth, Openid)](https://segmentfault.com/a/1190000008481722)
+- [RESTful API](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
