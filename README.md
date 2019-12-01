@@ -1,5 +1,5 @@
 # Python编码规范
-- [PEP 8规范](https://github.com/PuTongjian/python-stack/blob/master/doc/PEP%208.md)
+- [PEP 8规范](https://github.com/PuTongjian/python-stack/blob/masthttps://github.com/PuTongjianer/doc/PEP%208.md)
 - [Python语言规范 — Google 开源项目风格指南](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E8%AF%AD%E8%A8%80%E8%A7%84%E8%8C%83%5BGoogle%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%5D.pdf)
 - [Python编程惯例 — 十分钟让你的代码更加Pythonic](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E7%BC%96%E7%A8%8B%E6%83%AF%E4%BE%8B.pdf)
 
@@ -11,3 +11,6 @@
 - [HTTP验证大法(Basic Auth,Session, JWT, Oauth, Openid)](https://segmentfault.com/a/1190000008481722)
 - [RESTful API](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
+# 人生苦短，我用Python
+## Python指南
+-[Python魔法方法指南.pdf](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E9%AD%94%E6%B3%95%E6%96%B9%E6%B3%95%E6%8C%87%E5%8D%97.pdf)
