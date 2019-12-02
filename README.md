@@ -11,6 +11,7 @@
 - [HTTP验证大法(Basic Auth,Session, JWT, Oauth, Openid)](https://segmentfault.com/a/1190000008481722)
 - [RESTful API](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 - [I/O模式详解](https://github.com/PuTongjian/python-stack/blob/master/doc/IO%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3.md)
+- [I/O多路复用之select、poll、epoll](https://www.cnblogs.com/aspirant/p/9166944.html)
 
 # 人生苦短，我用Python
 ## Python指南
