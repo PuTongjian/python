@@ -13,6 +13,8 @@
 - [I/O模式详解](https://github.com/PuTongjian/python-stack/blob/master/doc/IO%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3.md)
 - [I/O多路复用之select、poll、epoll](https://www.cnblogs.com/aspirant/p/9166944.html)
 
+---
+
 # 人生苦短，我用Python
 ## Python指南
 - [Python魔法方法指南.pdf](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E9%AD%94%E6%B3%95%E6%96%B9%E6%B3%95%E6%8C%87%E5%8D%97.pdf)
