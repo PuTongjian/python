@@ -105,5 +105,3 @@ print hello('world')  # <b>Hello world!</b>
 >>> printer.__closure__[1].cell_contents  # 第二个外部变量
 'Bar'
 ~~~
-
-原理就是这么简单。
