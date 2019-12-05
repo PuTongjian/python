@@ -27,6 +27,8 @@
 ### 参考
 - [Flask 文档（中文版）](https://dormousehole.readthedocs.io/en/latest/)
 ### Flask插件
+- [Flask-Login](http://www.pythondoc.com/flask-login/)  使用Cookie进行用户会话管理
+- [Flask-Marshmallow ](https://flask-marshmallow.readthedocs.io/en/latest/)  序列化和反序列化
 ---
 
 # 数据库
