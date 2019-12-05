@@ -22,6 +22,12 @@
 
 ---
 
+# Web 应用框架
+## Flask
+- [Flask 文档（中文版）](https://dormousehole.readthedocs.io/en/latest/)
+### Flask插件
+---
+
 # 数据库
 ## SQL
 
