@@ -24,6 +24,7 @@
 
 # Web 应用框架
 ## Flask
+### 参考
 - [Flask 文档（中文版）](https://dormousehole.readthedocs.io/en/latest/)
 ### Flask插件
 ---
@@ -38,5 +39,5 @@
 
 ---
 
-## 版本控制
+# 版本控制
 - [git-flow 的工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
