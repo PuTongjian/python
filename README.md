@@ -20,6 +20,10 @@
 - [Python魔法方法指南.pdf](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E9%AD%94%E6%B3%95%E6%96%B9%E6%B3%95%E6%8C%87%E5%8D%97.pdf)
 - [Python装饰器的理解](https://github.com/PuTongjian/python-stack/blob/master/doc/Python%E8%A3%85%E9%A5%B0%E5%99%A8%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
+## 轮子
+- [Requests](https://cn.python-requests.org/zh_CN/latest/)  Requests唯一的一个非转基因的 Python HTTP 库，人类可以安全享用
+- [AIOHTTP](https://www.cntofu.com/book/127/readme.html)  提供异步HTTP客户端/服务端编程，基于asyncio的异步库
+
 ---
 
 # Web 应用框架
