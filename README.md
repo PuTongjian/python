@@ -30,9 +30,19 @@
 - [Flask-Login](http://www.pythondoc.com/flask-login/)  使用Cookie进行用户会话管理
 - [Flask-Principal](https://flask-principal-cn.readthedocs.io/zh_CN/latest/)  主要的组件包括身份(Identity)，需求(Needs)，权限(Permission)，和身份上下文(IdentityContext)
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io/en/latest/) 实现基于Json Web Token的用户认证授权
-- [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)封装了以几种简单的认证方式：基本认证（Basic Authentication），摘要认证（Digest Authentication），标志认证（Token Authentication）。
-- [Flask-SQLAlchemy](http://www.pythondoc.com/flask-sqlalchemy/)  ORM框架，基于SQLAlchemy框架的扩展。支持MySQL，PostgreSQL和Oracle。
+- [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)封装了以几种简单的认证方式：基本认证（Basic Authentication），摘要认证（Digest Authentication），标志认证（Token Authentication）
+- [Flask-SQLAlchemy](http://www.pythondoc.com/flask-sqlalchemy/)  基于SQLAlchemy（ORM框架）的扩展，支持MySQL，PostgreSQL和Oracle
+- [Flask-RESTful](www.pythondoc.com/Flask-RESTful/)  帮助你快速构建RESTful API
+- [Flask-Caching](https://pythonhosted.org/Flask-Caching/)  它为任何Flask应用程序增加了对各种后端的缓存支持
 - [Flask-Marshmallow ](https://flask-marshmallow.readthedocs.io/en/latest/)  序列化和反序列化
+- [Flask-Limiter](https://flask-limiter.readthedocs.io/en/stable/)  它为Flask路由提供速率限制功能。它支持使用内存，redis和memcache的当前实现来存储的可配置后端
+- [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/)  它是用于对Flask程序中的SQLAlchemy进行数据库的迁移
+- [flask-wtf](http://www.pythondoc.com/flask-wtf/)  基于WTForms的扩展，用于参数验证
+- [Flask-Cors](https://flask-cors.readthedocs.io/en/latest/)  用于处理跨源资源共享，使得AJAX跨域请求成为可能
+- [Flask-Mail](https://pythonhosted.org/Flask-Mail/)  将发送邮件功能集成到你的应用程序
+
+以上是Flask应用程序一些常用的优秀插件（持续更新）
+
 ---
 
 # 数据库
