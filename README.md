@@ -30,7 +30,7 @@
 - [Flask-Login](http://www.pythondoc.com/flask-login/)  使用Cookie进行用户会话管理
 - [Flask-Principal](https://flask-principal-cn.readthedocs.io/zh_CN/latest/)  主要的组件包括身份(Identity)，需求(Needs)，权限(Permission)，和身份上下文(IdentityContext)
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io/en/latest/) 实现基于Json Web Token的用户认证授权
-- [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)封装了以几种简单的认证方式：基本认证（Basic Authentication），摘要认证（Digest Authentication），标志认证（Token Authentication）
+- [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)  封装了以几种简单的认证方式：基本认证（Basic Authentication），摘要认证（Digest Authentication），标志认证（Token Authentication）
 - [Flask-SQLAlchemy](http://www.pythondoc.com/flask-sqlalchemy/)  基于SQLAlchemy（ORM框架）的扩展，支持MySQL，PostgreSQL和Oracle
 - [Flask-RESTful](www.pythondoc.com/Flask-RESTful/)  帮助你快速构建RESTful API
 - [Flask-Caching](https://pythonhosted.org/Flask-Caching/)  它为任何Flask应用程序增加了对各种后端的缓存支持
