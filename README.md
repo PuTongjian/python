@@ -47,6 +47,11 @@
 
 以上是Flask应用程序一些常用的优秀插件（持续更新）
 
+
+## Tornado
+### 参考
+- [Tornado文档（英文）](http://www.tornadoweb.org/en/stable/)  可参考中文文档阅读
+- [Tornode文档（中文）](https://tornado-zh.readthedocs.io/zh/latest/)  更新至4.3
 ---
 
 # 数据库
