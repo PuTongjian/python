@@ -52,7 +52,13 @@
 ### 参考
 - [Tornado文档（英文）](http://www.tornadoweb.org/en/stable/)  可参考中文文档阅读
 - [Tornode文档（中文）](https://tornado-zh.readthedocs.io/zh/latest/)  更新至4.3
+### 轮子
+- [Tornado-Redis](https://github.com/leporo/tornado-redis)  它为Tornado应用程序提供Redis缓存服务
+- [Peewee](https://www.osgeo.cn/peewee/)  种简单而小的ORM框架
+- [peewee-async](https://peewee-async.readthedocs.io/en/latest/)  基于Peewee实现的异步ORM框架
+- [WTForms](https://wtforms.readthedocs.io/en/stable/)
 ---
+
 
 # 数据库
 ## SQL
