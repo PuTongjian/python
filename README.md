@@ -57,6 +57,10 @@
 - [Peewee](https://www.osgeo.cn/peewee/)  种简单而小的ORM框架
 - [peewee-async](https://peewee-async.readthedocs.io/en/latest/)  基于Peewee实现的异步ORM框架
 - [WTForms](https://wtforms.readthedocs.io/en/stable/)
+
+## Sanic | Build fast. Run fast.
+### 参考
+- [Sanic文档（中文）](https://www.osgeo.cn/sanic/)
 ---
 
 
