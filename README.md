@@ -67,7 +67,7 @@
 ---
 
 
-# 数据库
+# SQL & NoSQL
 ## SQL
 ### MySQL
 - [主从配置](https://github.com/PuTongjian/python/blob/master/doc/MySQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md)
