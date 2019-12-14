@@ -30,6 +30,8 @@
 ## Flask
 ### 参考
 - [Flask 文档（中文版）](https://dormousehole.readthedocs.io/en/latest/)
+- [SQLAlchemy实现读写分离](https://github.com/PuTongjian/python/blob/master/doc/SQLAlchemy%E5%AE%9E%E7%8E%B0%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB.md)
+- [Flask-SQLAlchemy分表分库](http://www.pythondoc.com/flask-sqlalchemy/binds.html)
 ### Flask插件
 - [Flask-Login](http://www.pythondoc.com/flask-login/)  使用Cookie进行用户会话管理
 - [Flask-Principal](https://flask-principal-cn.readthedocs.io/zh_CN/latest/)  主要的组件包括身份(Identity)，需求(Needs)，权限(Permission)，和身份上下文(IdentityContext)
