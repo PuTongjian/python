@@ -47,6 +47,7 @@
 - [flask-wtf](http://www.pythondoc.com/flask-wtf/)  基于WTForms的扩展，用于参数验证
 - [Flask-Cors](https://flask-cors.readthedocs.io/en/latest/)  用于处理跨源资源共享，使得AJAX跨域请求成为可能
 - [Flask-Mail](https://pythonhosted.org/Flask-Mail/)  将发送邮件功能集成到你的应用程序
+- [Flask-SocketIO](https://flask-socketio.readthedocs.io/en/latest/)  Flask-SocketIO为flask应用提供了一个客户端与服务器之间低延迟的双向通信
 
 以上是Flask应用程序一些常用的优秀插件（持续更新）
 
@@ -59,7 +60,7 @@
 - [Tornado-Redis](https://github.com/leporo/tornado-redis)  它为Tornado应用程序提供Redis缓存服务
 - [Peewee](https://www.osgeo.cn/peewee/)  种简单而小的ORM框架
 - [peewee-async](https://peewee-async.readthedocs.io/en/latest/)  基于Peewee实现的异步ORM框架
-- [WTForms](https://wtforms.readthedocs.io/en/stable/)
+- [WTForms](https://wtforms.readthedocs.io/en/stable/) 表单参数验证
 
 ## Sanic | Build fast. Run fast.
 ### 参考
@@ -72,6 +73,7 @@
 ### MySQL
 - [MySQL性能优化](https://github.com/PuTongjian/python/blob/master/doc/MySQL%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 - [主从配置](https://github.com/PuTongjian/python/blob/master/doc/MySQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md)
+- [MySQL的四种事务隔离级别](https://github.com/PuTongjian/python/blob/master/doc/MySQL%E7%9A%84%E5%9B%9B%E7%A7%8D%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB.md)
 
 ## NoSQL
 ### Redis
