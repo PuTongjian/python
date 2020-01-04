@@ -39,7 +39,7 @@
 - [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)  封装了以几种简单的认证方式：基本认证（Basic Authentication），摘要认证（Digest Authentication），标志认证（Token Authentication）
 - [SQLAlchemy](https://www.osgeo.cn/sqlalchemy/) ORM框架，帮助你实现数据持久化
 - [Flask-SQLAlchemy](http://www.pythondoc.com/flask-sqlalchemy/)  基于SQLAlchemy（ORM框架）的扩展，支持MySQL，PostgreSQL和Oracle
-- [Flask-RESTful](www.pythondoc.com/Flask-RESTful/)  帮助你快速构建RESTful API
+- [Flask-RESTful](http://www.pythondoc.com/Flask-RESTful/index.html)  帮助你快速构建RESTful API
 - [Flask-Caching](https://pythonhosted.org/Flask-Caching/)  它为任何Flask应用程序增加了对各种后端的缓存支持
 - [Flask-Marshmallow ](https://flask-marshmallow.readthedocs.io/en/latest/)  序列化和反序列化
 - [Flask-Limiter](https://flask-limiter.readthedocs.io/en/stable/)  它为Flask路由提供速率限制功能。它支持使用内存，redis和memcache的当前实现来存储的可配置后端
