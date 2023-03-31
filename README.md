@@ -64,5 +64,5 @@
 
 ## Sanic | Build fast. Run fast.
 ### 参考
-- [Sanic文档（中文）](https://www.osgeo.cn/sanic/)
+- [Sanic文档（中文）](https://sanic.dev/zh/)
 ---
